@@ -16,3 +16,11 @@ JavaCPP											(https://github.com/bytedeco/javacpp)
 Opencsv											(http://opencsv.sourceforge.net/)
 
 
+Videos:
+-------
+
+https://youtu.be/LUKy0Gaxn1g
+
+https://youtu.be/vCqSXHgmSbY
+
+https://youtu.be/dGkcMVPJMqQ
