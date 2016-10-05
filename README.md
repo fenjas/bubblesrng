@@ -5,9 +5,9 @@ This is the project I submitted for the final year reading for a B.Sc. in Comput
 
 External Libraries:
 -------------------
-Window Builder for Eclipse	UI Design and Build	(https://eclipse.org/windowbuilder/)
-OpenCV v2.4.11 for Windows (http://opencv.org/downloads.html)
-Javas v1.0 (https://github.com/bytedeco/javacv)
-JavaCPP (https://github.com/bytedeco/javacpp)
-Opencsv	(http://opencsv.sourceforge.net/)
+Window Builder for Eclipse	(https://eclipse.org/windowbuilder/)
+OpenCV v2.4.11 for Windows	(http://opencv.org/downloads.html)
+Javas v1.0									(https://github.com/bytedeco/javacv)
+JavaCPP											(https://github.com/bytedeco/javacpp)
+Opencsv											(http://opencsv.sourceforge.net/)
 
